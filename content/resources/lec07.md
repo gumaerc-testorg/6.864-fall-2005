@@ -10,8 +10,13 @@ description: 'This resource discusses about Semantic smilarity, motivation, comp
   pairwise similarity, hierarchical clustering, Agglomerative clustering, Single-Link
   clustering, Complete-Link clustering, K-Means algorithm, and comparing clustering
   by set matching.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-864-advanced-natural-language-processing-fall-2005/d5c4c4a3d301ef74095a498320e4d504_lec07.pdf
+file: /media/courses/6-864-advanced-natural-language-processing-fall-2005/d5c4c4a3d301ef74095a498320e4d504_lec07.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec07.pdf
 uid: d5c4c4a3-d301-ef74-095a-498320e4d504

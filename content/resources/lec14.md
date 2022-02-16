@@ -5,8 +5,13 @@ description: 'This resource discusses about SCIgen: an automatic CS paper genera
   Corpus-based implementation, Coreference/Anaphora, motivation, types of referential
   expressions, syntactic and semantic constraints on coreference, and algorithms for
   coreference resolution.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-864-advanced-natural-language-processing-fall-2005/0c2c2b79ebc418eb05e58cfc3ee8fc4b_lec14.pdf
+file: /media/courses/6-864-advanced-natural-language-processing-fall-2005/0c2c2b79ebc418eb05e58cfc3ee8fc4b_lec14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec14.pdf
 uid: 0c2c2b79-ebc4-18eb-05e5-8cfc3ee8fc4b

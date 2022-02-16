@@ -7,8 +7,13 @@ description: This resource discusses about Vector-based similarity measures, pro
   linear vs. hierarchical context, grammar induction, motivation, evaluation and baselines,
   structure search experiment, finding topology, HMM topology induction, PCFG induction,
   Chunk/Merge systems, and partially unsupervised learning.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-864-advanced-natural-language-processing-fall-2005/ff5dffc36625759a279b0ca2a85b00c0_lec08.pdf
+file: /media/courses/6-864-advanced-natural-language-processing-fall-2005/ff5dffc36625759a279b0ca2a85b00c0_lec08.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec08.pdf
 uid: ff5dffc3-6625-759a-279b-0ca2a85b00c0
