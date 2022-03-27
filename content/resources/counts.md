@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 48a8a6b4-bb3a-c5c6-9c7c-63540f644c1f
 resourcetype: Other
 title: counts.gz
 uid: 3dfc0800-3133-f5b5-847b-4301d966289e

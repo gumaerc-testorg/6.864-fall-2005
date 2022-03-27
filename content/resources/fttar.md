@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 48a8a6b4-bb3a-c5c6-9c7c-63540f644c1f
 resourcetype: Other
 title: fttar.tar
 uid: 423ee415-75ea-fa67-d604-b89562567976
