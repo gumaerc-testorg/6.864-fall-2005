@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for homework 3.
-file: /media/courses/6-864-advanced-natural-language-processing-fall-2005/164f70e98cb3138cbdaa03fbbbd4b064_synrev.txt
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/164f70e98cb3138cbdaa03fbbbd4b064_synrev.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: synrev.txt
 uid: 164f70e9-8cb3-138c-bdaa-03fbbbd4b064
 ---
+This resource is a supporting file for homework 3.
+

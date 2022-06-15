@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for homework 4.
-file: /media/courses/6-864-advanced-natural-language-processing-fall-2005/becd5baaa6feadb01b274c9abbd97ebd_simplesentsbf_tagged.txt
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/becd5baaa6feadb01b274c9abbd97ebd_simplesentsbf_tagged.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: simplesentsbf_tagged.txt
 uid: becd5baa-a6fe-adb0-1b27-4c9abbd97ebd
 ---
+This resource is a supporting file for homework 4.
+

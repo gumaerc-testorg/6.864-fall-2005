@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for homework 6.
-file: /media/courses/6-864-advanced-natural-language-processing-fall-2005/4e727ea082212feefae6e1e5cfc0c257_testwords.txt
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/4e727ea082212feefae6e1e5cfc0c257_testwords.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: testwords.txt
 uid: 4e727ea0-8221-2fee-fae6-e1e5cfc0c257
 ---
+This resource is a supporting file for homework 6.
+

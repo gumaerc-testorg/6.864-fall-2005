@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for the homework 5.
-file: /media/courses/6-864-advanced-natural-language-processing-fall-2005/2c0612f4c6b3b07166cd7ea3476f471a_coref_samplestrain.txt
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/2c0612f4c6b3b07166cd7ea3476f471a_coref_samplestrain.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: coref_samplestrain.txt
 uid: 2c0612f4-c6b3-b071-66cd-7ea3476f471a
 ---
+This resource is a supporting file for the homework 5.
+

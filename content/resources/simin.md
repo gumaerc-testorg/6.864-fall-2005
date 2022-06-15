@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for homework 3.
-file: /media/courses/6-864-advanced-natural-language-processing-fall-2005/1d7318eff4083ae8951d918b965fd5dc_simin.txt
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/1d7318eff4083ae8951d918b965fd5dc_simin.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: simin.txt
 uid: 1d7318ef-f408-3ae8-951d-918b965fd5dc
 ---
+This resource is a supporting file for homework 3.
+
