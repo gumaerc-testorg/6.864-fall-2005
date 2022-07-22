@@ -8,6 +8,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/b2062476bddd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses about summarization, types of summaries, extracts vs. abstracts, condensation genre, centrality-based summarization(radev), combination of sentential features, learning content structure, computing content model, Viterbi re-estimation, applications of content models, etc.
-

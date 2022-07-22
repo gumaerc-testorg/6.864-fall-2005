@@ -5,6 +5,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/f9b0c1ddbc59
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: theirtheretest.txt
 uid: f9b0c1dd-bc59-23ae-e149-d8871296e2b9
 ---
 This resource is a supporting file for homework 2.
-

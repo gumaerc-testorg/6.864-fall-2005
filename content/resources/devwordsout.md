@@ -5,6 +5,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/0706b103f5dc
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: devwordsout.txt
 uid: 0706b103-f5dc-f29e-4127-da764cb360b2
 ---
 This resource is a supporting file for the homework 6.
-

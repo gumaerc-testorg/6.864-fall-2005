@@ -7,6 +7,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/a349c5368cb0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses about hidden Markov models, EM: the basic set-up, Products of Multinomial (PM) models, EM algorithm for PM models, EM algorithm for HMMs, Forward-Backward algorithm for HMMs, and application of EM in NLP.
-

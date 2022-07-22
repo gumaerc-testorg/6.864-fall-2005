@@ -6,6 +6,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/bcd3c33ccafa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 5 set of problems based on min-cut segmentation algorithm, Viterbi algorithm, Ratnaparkhi parser maps, and trigram HMM tagger.
-

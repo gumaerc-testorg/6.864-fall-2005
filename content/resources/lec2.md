@@ -8,6 +8,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/87a7c15d2192
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses about an introduction to the parsing problem, context free grammars, a brief(!) sketch of the syntax of english, examples of ambiguous structures, PCFGs, their formal properties, and useful algorithms, and weaknesses of PCFGs.
-

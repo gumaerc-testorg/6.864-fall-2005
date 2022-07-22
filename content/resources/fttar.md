@@ -5,6 +5,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/423ee41575ea
 file_type: application/x-gzip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a supporting .tar file for the homework 3.
-

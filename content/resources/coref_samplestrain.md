@@ -5,6 +5,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/2c0612f4c6b3
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: coref_samplestrain.txt
 uid: 2c0612f4-c6b3-b071-66cd-7ea3476f471a
 ---
 This resource is a supporting file for the homework 5.
-

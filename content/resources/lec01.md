@@ -8,6 +8,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/81725d832203
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on Natural Language Processing (NLP), alternative views on NLP, other NLP applications, syntactic ambiguity, symbolic approach and statistical approach: determiner placement, parsing, unsupervised methods, syllabus, books, prerequisites, assessment, and to do.
-

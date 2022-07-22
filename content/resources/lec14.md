@@ -9,6 +9,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/0c2c2b79ebc4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses about SCIgen: an automatic CS paper generator, modeling local coherence, entity-based approaches to discourse, Centering theory, Corpus-based implementation, Coreference/Anaphora, motivation, types of referential expressions, syntactic and semantic constraints on coreference, and algorithms for coreference resolution.
-

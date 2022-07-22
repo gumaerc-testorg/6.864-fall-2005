@@ -5,6 +5,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/b8387031571c
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: wsj1921test.txt
 uid: b8387031-571c-1f6d-f7bc-8d495bf9f40f
 ---
 This resource is a supporting file for homework 4.
-

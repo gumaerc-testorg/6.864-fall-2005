@@ -5,6 +5,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/1d7318eff408
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: simin.txt
 uid: 1d7318ef-f408-3ae8-951d-918b965fd5dc
 ---
 This resource is a supporting file for homework 3.
-

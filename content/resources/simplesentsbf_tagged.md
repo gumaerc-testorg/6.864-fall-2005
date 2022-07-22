@@ -5,6 +5,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/becd5baaa6fe
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: simplesentsbf_tagged.txt
 uid: becd5baa-a6fe-adb0-1b27-4c9abbd97ebd
 ---
 This resource is a supporting file for homework 4.
-

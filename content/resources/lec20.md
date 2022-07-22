@@ -7,6 +7,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/2ee2541997e8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses about a brief review of history-based methods, a new framework: global linear models, parsing problems in this framework: Reranking problems, and parameter estimation method 1: a variant of the perceptron algorithm.
-

@@ -5,6 +5,7 @@ file: /courses/6-864-advanced-natural-language-processing-fall-2005/932ac531255a
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: first30data.txt
 uid: 932ac531-255a-aa57-c1f7-71df1b4f2e7c
 ---
 This resource is a supporting file for the homework 5.
-
