@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: The syllabus section contains information about course outline, objectives,
+  prerequisites, textbooks, measurable outcomes and assessment methods, evaluation,
+  and academic integrity for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 39546ab4-5e68-c6dd-0b00-12eb7c7717d5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
