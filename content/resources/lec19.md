@@ -5,6 +5,7 @@ description: This resource discusses about Word Sense Disambiguation, examples, 
   decision lists, local and global constraints, semi-supervised methods, bootstrapping
   approach, collecting seed examples, etc.
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/b4c042e59ac5034f200dc8cd8c26d809_lec19.pdf
+file_size: 299401
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

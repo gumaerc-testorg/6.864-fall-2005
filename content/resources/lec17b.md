@@ -4,6 +4,7 @@ description: This resource discusses about Linguistic motivation, German sentenc
   structure, free word order, phrase-based systems, re-ordering strategy, experiments,
   related work and future work.
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/d40a73bec42d1662be0306817ac7e378_lec17b.pdf
+file_size: 1426891
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -11,6 +11,7 @@ description: 'This resource discusses about Semantic smilarity, motivation, comp
   clustering, Complete-Link clustering, K-Means algorithm, and comparing clustering
   by set matching.'
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/d5c4c4a3d301ef74095a498320e4d504_lec07.pdf
+file_size: 281496
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -6,6 +6,7 @@ description: 'This resource discusses about SCIgen: an automatic CS paper genera
   expressions, syntactic and semantic constraints on coreference, and algorithms for
   coreference resolution.'
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/0c2c2b79ebc418eb05e58cfc3ee8fc4b_lec14.pdf
+file_size: 263650
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

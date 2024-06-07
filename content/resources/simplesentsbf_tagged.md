@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for homework 4.
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/becd5baaa6feadb01b274c9abbd97ebd_simplesentsbf_tagged.txt
+file_size: 21879
 file_type: text/plain
 learning_resource_types:
 - Assignments

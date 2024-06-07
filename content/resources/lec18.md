@@ -5,6 +5,7 @@ description: This resource discusses about graph-based algorithms in NLP, graph-
   focused subgraph, iterative algorithm, page rank algorithm, intuitive justification,
   extractive text summarization, centrality-based summarization(radev), min-cut, etc.
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/e7d785dcfb9b011ed035fe2762740358_lec18.pdf
+file_size: 429089
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
