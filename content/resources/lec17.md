@@ -4,6 +4,7 @@ description: 'This resourec discusses about Phrase-based model: (Koehn, Och and 
   2003), syntax based model 1: (Wu 1995), and syntax based model 2: (Yamada and Knight
   2001).'
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/acaccb392552329518f22184a84bfb01_lec17.pdf
+file_size: 251541
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

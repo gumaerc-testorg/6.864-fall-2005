@@ -8,6 +8,7 @@ description: This resource discusses about Vector-based similarity measures, pro
   structure search experiment, finding topology, HMM topology induction, PCFG induction,
   Chunk/Merge systems, and partially unsupervised learning.
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/ff5dffc36625759a279b0ca2a85b00c0_lec08.pdf
+file_size: 229316
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

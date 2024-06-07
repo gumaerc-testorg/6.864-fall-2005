@@ -4,6 +4,7 @@ description: This resource discusses about Language Modeling Problem, Trigram Mo
   Part-of-Speech Tagging, Log-linear models, maximum-entropy property, and smoothing,
   feature selection etc. in log-linear models.
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/99b943c303a3b930db8bcd116b10c002_lec09.pdf
+file_size: 362287
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

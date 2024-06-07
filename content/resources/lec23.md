@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses about statistical NLU component, reinforcement
   learning for dialogue management, and planning-based agent system.
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/61cea513524cb0cb214ed57fe1338ed4_lec23.pdf
+file_size: 216413
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
