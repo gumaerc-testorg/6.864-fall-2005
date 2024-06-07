@@ -4,6 +4,7 @@ description: This resource discusses about challenges in machine translation, br
   introduction to statistical MT, evaluation of MT systems, sentence alignment problem,
   and IBM Model 1.
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/bdc6cef8833e73a1466f5a0d4d36508d_lec15.pdf
+file_size: 184361
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

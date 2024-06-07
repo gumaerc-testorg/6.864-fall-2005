@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting .tar file for the homework 3.
 file: /courses/6-864-advanced-natural-language-processing-fall-2005/423ee41575eafa67d604b89562567976_fttar.tar
+file_size: 2649033
 file_type: application/x-gzip
 learning_resource_types:
 - Assignments
