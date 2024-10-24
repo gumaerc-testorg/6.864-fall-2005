@@ -4,7 +4,7 @@ description: 'This resource contains information on Natural Language Processing 
   alternative views on NLP, other NLP applications, syntactic ambiguity, symbolic
   approach and statistical approach: determiner placement, parsing, unsupervised methods,
   syllabus, books, prerequisites, assessment, and to do.'
-file: /courses/6-864-advanced-natural-language-processing-fall-2005/81725d832203435ff8ae517b3f649e7f_lec01.pdf
+file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/81725d832203435ff8ae517b3f649e7f_lec01.pdf
 file_size: 722650
 file_type: application/pdf
 learning_resource_types:
