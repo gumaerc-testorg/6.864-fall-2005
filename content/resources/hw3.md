@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 4 set of problems based on log-linear model, KL
   divergence, information radius (IRad), L1 norm, and lexical semantics.
-file: /courses/6-864-advanced-natural-language-processing-fall-2005/c194dabda13c61b9d854d1e431847bb0_hw3.pdf
+file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/c194dabda13c61b9d854d1e431847bb0_hw3.pdf
 file_size: 98128
 file_type: application/pdf
 learning_resource_types:

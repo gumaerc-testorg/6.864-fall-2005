@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for the homework 5.
-file: /courses/6-864-advanced-natural-language-processing-fall-2005/932ac531255aaa57c1f771df1b4f2e7c_first30data.txt
+file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/932ac531255aaa57c1f771df1b4f2e7c_first30data.txt
 file_size: 18944
 file_type: text/plain
 learning_resource_types:
