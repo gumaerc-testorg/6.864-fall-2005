@@ -4,7 +4,7 @@ description: This resource discusses about summarization, types of summaries, ex
   vs. abstracts, condensation genre, centrality-based summarization(radev), combination
   of sentential features, learning content structure, computing content model, Viterbi
   re-estimation, applications of content models, etc.
-file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/b2062476bddd55b77f10b300a1d1ed4b_lec25.pdf
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/b2062476bddd55b77f10b300a1d1ed4b_lec25.pdf
 file_size: 246809
 file_type: application/pdf
 learning_resource_types:

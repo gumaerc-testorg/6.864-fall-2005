@@ -4,7 +4,7 @@ description: This resource discusses about non-NLP questions, Byblos Script, Lex
   Learning, Natural Language Syntax, vocabulary induction, word boundary detection,
   grammar induction, feasibility of language acquisition, and algorithms for grammar
   induction.
-file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/342d36cac8b2c8fcd564bb3617d20e5d_lec11.pdf
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/342d36cac8b2c8fcd564bb3617d20e5d_lec11.pdf
 file_size: 242239
 file_type: application/pdf
 learning_resource_types:

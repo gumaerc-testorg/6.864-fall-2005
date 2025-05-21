@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about structure of IBM models 1 and 2, EM training
   of models 1 and 2, some examples of training Models 1 and 2, and decoding.
-file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/9b34948d9b97621af0ac6655e85e6a73_lec16.pdf
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/9b34948d9b97621af0ac6655e85e6a73_lec16.pdf
 file_size: 314707
 file_type: application/pdf
 learning_resource_types:
