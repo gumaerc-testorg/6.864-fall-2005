@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about Tagging Problem, Hidden Markov Model (HMM)
   taggers, Log-linear taggers, Log-linear models for parsing and other problems.
-file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/0abc5d7ab6458ec55a14c9f7c300438b_lec10.pdf
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/0abc5d7ab6458ec55a14c9f7c300438b_lec10.pdf
 file_size: 288930
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for the homework 5.
-file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/1e51155c7d37873760e3d7689f6d4d42_corefnames.txt
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/1e51155c7d37873760e3d7689f6d4d42_corefnames.txt
 file_size: 248
 file_type: text/plain
 learning_resource_types:
