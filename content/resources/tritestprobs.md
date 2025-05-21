@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for homework 4.
-file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/4b45f500f7f94df74e4c49859e37844e_tritestprobs.txt
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/4b45f500f7f94df74e4c49859e37844e_tritestprobs.txt
 file_size: 942
 file_type: text/plain
 learning_resource_types:

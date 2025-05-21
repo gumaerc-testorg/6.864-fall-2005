@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource discusses about a brief review of history-based methods,
   a new framework: global linear models, parsing problems in this framework: Reranking
   problems, and parameter estimation method 1: a variant of the perceptron algorithm.'
-file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/2ee2541997e804bf36b54786a98c9fec_lec20.pdf
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/2ee2541997e804bf36b54786a98c9fec_lec20.pdf
 file_size: 375949
 file_type: application/pdf
 learning_resource_types:

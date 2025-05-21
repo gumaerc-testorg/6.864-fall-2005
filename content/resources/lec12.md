@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about learning PCFGs, and computational models
   of discourse.
-file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/a5a40b68560ed8e57e6aa3f1f4bc456d_lec12.pdf
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/a5a40b68560ed8e57e6aa3f1f4bc456d_lec12.pdf
 file_size: 254743
 file_type: application/pdf
 learning_resource_types:

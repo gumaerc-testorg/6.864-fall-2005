@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource discusses about hidden Markov models, EM: the basic set-up,
   Products of Multinomial (PM) models, EM algorithm for PM models, EM algorithm for
   HMMs, Forward-Backward algorithm for HMMs, and application of EM in NLP.'
-file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/a349c5368cb00959e65725e9d4569852_lec6.pdf
+file: /courses/6-864-advanced-natural-language-processing-fall-2005/a349c5368cb00959e65725e9d4569852_lec6.pdf
 file_size: 197473
 file_type: application/pdf
 learning_resource_types:
