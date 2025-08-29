@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting .gz file, contains data.txt file for the
   homework 3.
-file: /courses/6-864-advanced-natural-language-processing-fall-2005/96fb05eff0fb1e1cb91ff342ae388d56_data.gz
+file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/96fb05eff0fb1e1cb91ff342ae388d56_data.gz
 file_size: 100873
 file_type: application/x-gzip
 learning_resource_types:

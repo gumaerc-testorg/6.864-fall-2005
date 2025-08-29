@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting .gz file, contains corpus.de.txt file for
   the homework 6.
-file: /courses/6-864-advanced-natural-language-processing-fall-2005/e549b14f589a1d819bb9d6838ec5c5b9_corpusde.gz
+file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/e549b14f589a1d819bb9d6838ec5c5b9_corpusde.gz
 file_size: 880685
 file_type: application/x-gzip
 learning_resource_types:

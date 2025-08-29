@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource discusses about analyzing human conversations, architecture
   of dialogue systems: ASR, NLU, generation, and dialogue manager, statistical model
   for the NLU component, and HMM model for DA labeling.'
-file: /courses/6-864-advanced-natural-language-processing-fall-2005/5e94e28af89b04ad0c9edae03e371d03_lec22.pdf
+file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/5e94e28af89b04ad0c9edae03e371d03_lec22.pdf
 file_size: 256149
 file_type: application/pdf
 learning_resource_types:

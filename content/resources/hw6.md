@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 set of problems based on perceptron algorithm,
   transduction PCFGs, and IBM translation model 1.
-file: /courses/6-864-advanced-natural-language-processing-fall-2005/e71a9d7c4fdc8efa76e6131fc7d6642c_hw6.pdf
+file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/e71a9d7c4fdc8efa76e6131fc7d6642c_hw6.pdf
 file_size: 53702
 file_type: application/pdf
 learning_resource_types:
