@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for homework 4.
-file: /courses/6-864-advanced-natural-language-processing-fall-2005/69f123824afa6f4d5bc76a91b95362d8_simplesents.txt
+file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/69f123824afa6f4d5bc76a91b95362d8_simplesents.txt
 file_size: 19344
 file_type: text/plain
 learning_resource_types:

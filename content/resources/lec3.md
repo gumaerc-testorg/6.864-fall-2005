@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about the language modeling problem, and smoothed
   ?n-gram? estimates.
-file: /courses/6-864-advanced-natural-language-processing-fall-2005/56a788aee71d6c78c483d3b7596e9477_lec3.pdf
+file: /ol-ocw-studio-app/courses/6-864-advanced-natural-language-processing-fall-2005/56a788aee71d6c78c483d3b7596e9477_lec3.pdf
 file_size: 268580
 file_type: application/pdf
 learning_resource_types:
