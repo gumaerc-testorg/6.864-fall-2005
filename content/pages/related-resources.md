@@ -15,10 +15,10 @@ video_metadata:
 Resources
 ---------
 
-[ACL Anthology](https://www.aclweb.org/anthology/)
+{{% resource_link "3ceb2528-16ef-441c-af9d-6c57aa4db6ed" "ACL Anthology" %}}
 
-[Linguistic Data Consortium](http://www.ldc.upenn.edu/)
+{{% resource_link "cf62e5b6-07d5-401f-80e7-998804290e68" "Linguistic Data Consortium" %}}
 
-[Stanford List of NLP Resources](http://www-nlp.stanford.edu/links/statnlp.html)
+{{% resource_link "5ba312dc-2bd9-4713-a396-e38250c5021b" "Stanford List of NLP Resources" %}}
 
-[Lillian Lee's List of NLP Resources](http://www.cs.cornell.edu/courses/cs674/2002SP/#resources)
+{{% resource_link "5dca10a2-ce63-4173-8073-ef1eba87e3a9" "Lillian Lee's List of NLP Resources" %}}
