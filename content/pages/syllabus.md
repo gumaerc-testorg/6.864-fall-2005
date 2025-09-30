@@ -55,7 +55,7 @@ Suggested textbooks for the course are:
 
 Jurafsky, David, and James H. Martin. _Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition_. Upper Saddle River, NJ: Prentice-Hall, 2000. ISBN: 0130950696.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/foundations-statistical-natural-language-processing) Manning, Christopher D., and Hinrich Schütze. _Foundations of Statistical Natural Language Processing_. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/), 1999. ISBN: 0262133601.
+{{% resource_link "e938e4e7-fb1a-46e5-b431-0a1a42a54505" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Manning, Christopher D., and Hinrich Schütze. _Foundations of Statistical Natural Language Processing_. Cambridge, MA: {{% resource_link "6d485f0a-bbb2-45a1-b4ff-d0779874d4c0" "MIT Press" %}}, 1999. ISBN: 0262133601.
 
 Measurable Outcomes and Assessment Methods
 ------------------------------------------
