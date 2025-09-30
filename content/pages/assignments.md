@@ -95,9 +95,9 @@ Homework 5 ({{% resource_link 76e629e7-2732-d5b1-3187-8d0d4f56ea85 "PDF" %}})
 {{< tdopen >}}
 _Resources_  
   
-[BoosTexter](http://rob.schapire.net/) - The download page for the BoosTexter binaries. If you get an error message, try reloading the link. BoosTexter is UNIX®-based, so if you want to run it in Windows, you will need to get a UNIX® shell such as [Cygwin](http://www.cygwin.com/) or [U/Win](http://www.research.att.com/sw/tools/uwin).  
+{{% resource_link "a85dd7b1-624c-41b3-931d-fe8a1a8793e7" "BoosTexter" %}} - The download page for the BoosTexter binaries. If you get an error message, try reloading the link. BoosTexter is UNIX®-based, so if you want to run it in Windows, you will need to get a UNIX® shell such as {{% resource_link "2dc58f8b-9f4c-412e-9432-76e2a6e6e1e1" "Cygwin" %}} or {{% resource_link "539c2647-cf44-414c-9820-94c94fd071f5" "U/Win" %}}.  
   
-[Penn Treebank Tagset](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html) - Descriptions of the Penn part-of-speech tags. NB: When you are determining the plurality of a noun phrase, you will find that the last tag is not always a noun-type tag. Use the following rule to determine the plurality of these other parts of speech:  
+{{% resource_link "8f4fa99f-4039-42f2-8031-e797d0e67fa5" "Penn Treebank Tagset" %}} - Descriptions of the Penn part-of-speech tags. NB: When you are determining the plurality of a noun phrase, you will find that the last tag is not always a noun-type tag. Use the following rule to determine the plurality of these other parts of speech:  
 Plural: CD, JJP, SYM  
 Singular: DT, JJ, RB, VBG, WDT  
   
